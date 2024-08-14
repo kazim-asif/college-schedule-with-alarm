@@ -1,0 +1,6 @@
+for login:
+	email: u
+	password: 1234
+
+time format through out tha app: HH:MM PM/AM
+Date: DD/MM/YYYY
